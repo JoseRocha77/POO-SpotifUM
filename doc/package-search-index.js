@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"Classes"},{"l":"Classes.Musicas"},{"l":"Classes.Planos"},{"l":"Classes.Playlists"},{"l":"Controller"},{"l":"Exceptions"},{"l":"SpotifUM"},{"l":"View"}];updateSearchResults();

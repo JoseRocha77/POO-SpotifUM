@@ -1,0 +1,30 @@
+admin,user register < a@gmail.com < Ana < Rua A < 123 < free < user
+admin,user register < b@gmail.com < Beto < Rua B < 123 < premiumbase < user
+admin,user register < c@gmail.com < Cátia < Rua C < 123 < premiumtop < user
+admin,user register < admin < admin < SpotifUM < 123 < premiumtop < admin
+
+admin,artista create < 2Pac < USA
+admin,artista create < Ice Cube < USA
+admin,artista create < Kendrick < USA
+
+# Músicas normais
+admin,musica create < Life < 2Pac < DeathRow < Life goes on|Changes < Beat|Snare < HIPHOP < 200
+admin,musica create < Cube < Ice Cube < Lench < It was a good day < Bass|Drum < HIPHOP < 215
+admin,musica create < Humble < Kendrick < TDE < Sit down|Be humble < Clap|808 < HIPHOP < 190
+
+# Músicas explícitas
+admin,musicaExplicita create < DearMama < 2Pac < Interscope < Dear mama|I appreciate you < Bass|HiHat < HIPHOP < 210 < Explicit language < 16
+admin,musicaExplicita create < Fight < Ice Cube < Priority < You know how we do it < Bassline|Snare < HIPHOP < 205 < Strong themes < 18
+
+# Músicas multimédia
+admin,musicaMultimedia create < VideoLife < 2Pac < DeathRow < Visual life|West side < Beat|VFX < HIPHOP < 180 < life.mp4 < mp4
+admin,musicaMultimedia create < VideoCube < Ice Cube < CubeVision < Good day vibes < Smooth|Drums < HIPHOP < 220 < cube.mov < mov
+
+# Álbums
+admin,album create < 2Pac Mix < 2Pac < 1996-01-01 < Life < DearMama < VideoLife
+admin,album create < Cube Power < Ice Cube < 1993-05-05 < Cube < Fight < VideoCube
+admin,album create < DAMN < Kendrick < 2017-04-14 < Humble
+
+# Playlists geradas automaticamente
+admin,playlistAleatoria create < ChillVibes < admin < 3
+admin,playlistAleatoria create < WorkoutBeats < admin < 5

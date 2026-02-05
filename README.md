@@ -59,7 +59,7 @@ A aplicação está dividida em módulos lógicos seguindo o padrão **MVC** (Mo
 ### Compilação e Execução
 1. Clona o repositório:
    ```bash
-   git clone [https://github.com/teu-utilizador/SpotifUM-POO.git](https://github.com/teu-utilizador/SpotifUM-POO.git)
+   git clone https://github.com/JoseRocha77/POO-SpotifUM.git
    ```
 2. Compila os ficheiros .java:
    ```bash
@@ -75,3 +75,4 @@ A aplicação está dividida em módulos lógicos seguindo o padrão **MVC** (Mo
 
 * /src: Código-fonte da aplicação (.java).
 * /doc: Relatório técnico e Diagrama de Classes (UML).
+
